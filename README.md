@@ -1,6 +1,9 @@
-# MinutesMeetings
+# InformationMeetings
 
-This repository was created to keep track of all the meetings within the LA-CoNGA Physics organization and the discussion minutes from these meetings.
+This repository was created to keep track of all the meetings within the LA-CoNGA Physics organization, the material presented and discussion minutes from these meetings.
+
+Please create a directory for each meeting. Inside this directory add all the material presented during the meeting if any and create a file for the minutes.
+
 Please follow the format for the minutes:
 - Date, time
 - Who was connected to the meeting?
