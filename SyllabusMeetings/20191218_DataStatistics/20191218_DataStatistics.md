@@ -1,4 +1,5 @@
-Minutes from the "Data/statistics" sub-group meeting, December 18, 2019
+Minutes from the "Data/statistics" sub-group meeting, December 18, 2019. 22h00 CERN time
+
 Attending: Camila, Reina, Arturo, José Antonio, José
 
 Link to slides: https://docs.google.com/presentation/d/1YLj7l3DnKjdTX-STXzZAntYxoSKy7UHeaqyE8WLUfA0/edit#slide=id.p
